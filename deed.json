@@ -1,9 +1,9 @@
 {
   "showDialog": true,
   "latestVersionCode": 263,
-  "latestVersionName": "6.0.5",
+  "latestVersionName": "6.0.5.2",
   "title": "UPDATE AVAILABLE",
-  "message": "New Version 6.0.6 latest available. To DOWNLOADateButtonText the latest Version click below button",
+  "message": "New Version 6.0.5.2 All Students Fields are now Editable",
   "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://sourceforge.net/projects/sispunjabmod/files/SED%20SIS/SIS%20SED_6.0.5_apks_mod.apk/download"
+  "UpdateButtonUrl": "https://sourceforge.net/projects/sispunjabmod/files/latest/download"
 }
