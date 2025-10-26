@@ -8,6 +8,8 @@
 ◉ Support Staff Data is Editable.
  ◉ Notified Seniority No. Editable in Teacher Profile. 
 ◉ Can Select School Shift in School Basic Information section.",
+  "cancelButtonText": "CLOSE",
+  "cancelClosesApp": false,
   "UpdateButtonText": "DOWNLOAD",
   "UpdateButtonUrl": "https://sourceforge.net/projects/sispunjabmod/files/SIS%20SED%20PLUS/SIS%20SED%20PLUS_6.0.5.3.apk/download"
 }
