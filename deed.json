@@ -1,10 +1,13 @@
 {
   "showDialog": true,
   "latestVersionCode": 263,
-  "latestVersionName": "6.0.5.2",
+  "latestVersionName": "6.0.5.3",
   "title": "UPDATE AVAILABLE",
-  "message": "New Version 6.0.5.2 is Available.
-  All Students Fields are now Editable",
+  "message": "⭐Changelogs⭐
+◉ Student's Profiles are Editable. 
+◉ Support Staff Data is Editable.
+ ◉ Notified Seniority No. Editable in Teacher Profile. 
+◉ Can Select School Shift in School Basic Information section.",
   "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://sourceforge.net/projects/sispunjabmod/files/latest/download"
+  "UpdateButtonUrl": "https://sourceforge.net/projects/sispunjabmod/files/SIS%20SED%20PLUS/SIS%20SED%20PLUS_6.0.5.3.apk/download"
 }
